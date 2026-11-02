@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OnionArchitecture.Data/OnionArchitecture.Data.csproj" />
+  <Project Path="OnionArchitecture.Domain/OnionArchitecture.Domain.csproj" />
+  <Project Path="OnionArchitecture.DTO/OnionArchitecture.DTO.csproj" />
+  <Project Path="OnionArchitecture/OnionArchitecture.API.csproj" />
+</Solution>
